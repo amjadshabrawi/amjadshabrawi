@@ -1,10 +1,18 @@
 # Hi, I'm Amjad Shabrawi 👋
 
-### Software Engineering Student | Aspiring Backend Developer
+### Software Engineering Graduate | Aspiring Backend Developer
 
-I'm a Software Engineering student at Al-Zaytoonah University of Jordan, currently building my programming foundation with C#.
+I'm a Software Engineering graduate from Al-Zaytoonah University of Jordan, class of 2026.
 
-My goal is to become a skilled Backend Developer using ASP.NET Core and eventually expand into DevOps Engineering.
+I'm currently strengthening my programming foundation in C# and preparing to study Object-Oriented Programming (OOP).
+
+My primary career goal is to become a skilled Backend Developer specializing in C# and ASP.NET Core. In the future, I plan to expand into DevOps Engineering.
+
+## 🎓 Education
+
+**Bachelor's Degree in Software Engineering**\
+Al-Zaytoonah University of Jordan\
+Graduated: September 2026
 
 ## 🎯 Currently Learning
 
@@ -29,7 +37,9 @@ My goal is to become a skilled Backend Developer using ASP.NET Core and eventual
 
 ## 🚀 Projects
 
-I'm currently developing my skills and preparing to build original software projects. New projects will be added as I complete and understand them.
+I'm currently developing my technical skills and preparing to build original software projects.
+
+New projects will be added as I complete, test, and fully understand them.
 
 ## 📫 Connect With Me
 
