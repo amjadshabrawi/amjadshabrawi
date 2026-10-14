@@ -34,4 +34,4 @@ I'm currently developing my skills and preparing to build original software proj
 ## 📫 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/amjad-shabrawi-730230308/](https://www.linkedin.com/in/amjad-shabrawi-730230308/)
-- GitHub: [https://github.com/amjadshpriwe1-hub](https://github.com/amjadshpriwe1-hub)
+- GitHub: [https://github.com/amjadshabrawi](https://github.com/amjadshabrawi)
