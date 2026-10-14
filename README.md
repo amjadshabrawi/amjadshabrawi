@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Amjad Shabrawi 👋
 
-<!--
-**amjadshpriwe1-hub/amjadshpriwe1-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Backend Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Al-Zaytoonah University of Jordan, currently building my programming foundation with C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a skilled Backend Developer using ASP.NET Core and eventually expand into DevOps Engineering.
+
+## 🎯 Currently Learning
+
+- C# Fundamentals
+- Programming Logic and Problem Solving
+- Git and GitHub
+
+## 📚 Next Steps
+
+- Object-Oriented Programming (OOP)
+- SQL and Database Fundamentals
+- ASP.NET Core Web API
+- REST APIs
+- Docker and CI/CD
+
+## 🛠️ Development Tools
+
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+
+## 🚀 Projects
+
+I'm currently developing my skills and preparing to build original software projects. New projects will be added as I complete and understand them.
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/amjad-shabrawi-730230308/](https://www.linkedin.com/in/amjad-shabrawi-730230308/)
+- GitHub: [https://github.com/amjadshpriwe1-hub](https://github.com/amjadshpriwe1-hub)
